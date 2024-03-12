@@ -350,8 +350,8 @@ for file_name in file_list:
 # 过滤掉空行和不符合格式的行
 valid_lines = [line for line in merged_text.split('\n') if line.strip() and '\t' in line]
 
-# 对有效行进行排序。按第一列（即期刊名称）的字母顺序进行排序
-sorted_lines = sorted(valid_lines, key=lambda line: line.split('\t')[0])
+# 对有效行进行排序。按第一列（即期刊名称）的字母顺序进行排序，不考虑大小写
+sorted_lines = sorted(valid_lines, key=lambda line: line.split('\t')[0].lower())
 
 # 重新组合排序后的行并用换行符连接
 sorted_text = '\n'.join(sorted_lines)
