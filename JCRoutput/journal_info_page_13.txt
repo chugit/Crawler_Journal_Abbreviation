@@ -1,0 +1,200 @@
+CEPHALALGIA	Cephalalgia	Cephalalgia	CEPHALALGIA	English	NORWAY	1997
+MATURITAS	Maturitas	Maturitas	MATURITAS	English	NETHERLANDS	1997
+MOLECULAR ECOLOGY	Mol. Ecol.	Mol Ecol	MOL ECOL	English	ENGLAND	1997
+OCCUPATIONAL AND ENVIRONMENTAL MEDICINE	Occup. Environ. Med.	Occup Environ Med	OCCUP ENVIRON MED	English	ENGLAND	1997
+MOLECULAR PLANT PATHOLOGY	Mol. Plant Pathol.	Mol Plant Pathol	MOL PLANT PATHOL	English	ENGLAND	2004
+Biogeosciences	Biogeosciences	Biogeosciences	BIOGEOSCIENCES	English	GERMANY (FED REP GER)	2006
+IEEE ELECTRON DEVICE LETTERS	IEEE Electron Device Lett.	IEEE Electron Device Lett	IEEE ELECTR DEVICE L	English	USA	1997
+Chinese Medicine	Chin. Med.	Chin Med	CHIN MED-UK	English	ENGLAND	2013
+Journal of Geographical Sciences	J. Geogr. Sci.	J Geogr Sci	J GEOGR SCI	English	CHINA MAINLAND	2009
+Mobile DNA	Mob. DNA	Mob DNA	MOBILE DNA-UK	English	ENGLAND	2013
+INFLAMMATORY BOWEL DISEASES	Inflamm. Bowel Dis.	Inflamm Bowel Dis	INFLAMM BOWEL DIS	English	USA	1998
+INTERNATIONAL JOURNAL OF MEDICAL INFORMATICS	Int. J. Med. Inform.	Int J Med Inform	INT J MED INFORM	English	IRELAND	1997
+JMIR Aging	JMIR Aging	JMIR Aging	JMIR AGING	English	CANADA	2022
+JOURNAL OF CLIMATE	J. Clim.	J Clim	J CLIMATE	English	USA	1997
+Minerva Urology and Nephrology	Minerva Urol. Nephrol.	Minerva Urol Nephrol	MINERVA UROL NEPHROL	Multi-Language	ITALY	2021
+Probiotics and Antimicrobial Proteins	Probiotics Antimicrob. Proteins	Probiotics Antimicrob Proteins	PROBIOTICS ANTIMICRO	English	USA	2015
+Bioengineered	Bioengineered	Bioengineered	BIOENGINEERED	English	USA	2014
+INTERNATIONAL JOURNAL OF OBESITY	Int. J. Obes.	Int J Obes	INT J OBESITY	English	ENGLAND	1997
+ASTROPHYSICAL JOURNAL	Astrophys. J.	Astrophys J	ASTROPHYS J	English	USA	1997
+CANCER IMAGING	Cancer Imaging	Cancer Imaging	CANCER IMAGING	English	ENGLAND	2010
+AIDS PATIENT CARE AND STDS	Aids Patient Care STDS	Aids Patient Care STDS	AIDS PATIENT CARE ST	English	USA	1997
+MAMMAL REVIEW	Mammal Rev.	Mammal Rev	MAMMAL REV	English	ENGLAND	1997
+AMERICAN JOURNAL OF INFECTION CONTROL	Am. J. Infect. Control	Am J Infect Control	AM J INFECT CONTROL	English	USA	1997
+Current Nutrition Reports	Curr. Nutr. Rep.	Curr Nutr Rep	CURR NUTR REP	English	USA	2021
+CONTROL ENGINEERING PRACTICE	Control Eng. Practice	Control Eng Practice	CONTROL ENG PRACT	English	ENGLAND	1997
+Journal of Neurodevelopmental Disorders	J. Neurodev. Disord.	J Neurodev Disord	J NEURODEV DISORD	English	USA	2009
+IEEE TRANSACTIONS ON ENERGY CONVERSION	IEEE Trans. Energy Convers.	IEEE Trans Energy Convers	IEEE T ENERGY CONVER	English	USA	1997
+International Journal of Health Geographics	Int. J. Health Geogr.	Int J Health Geogr	INT J HEALTH GEOGR	English	ENGLAND	2009
+JOURNAL OF HYPERTENSION	J. Hypertens.	J Hypertens	J HYPERTENS	English	USA	1997
+Strategic Organization	Strateg. Organ.	Strateg Organ	STRATEG ORGAN	English	ENGLAND	2009
+SEMINARS IN NUCLEAR MEDICINE	Semin. Nucl. Med.	Semin Nucl Med	SEMIN NUCL MED	English	USA	1997
+LEADERSHIP & ORGANIZATION DEVELOPMENT JOURNAL	Leadersh. Org. Dev. J.	Leadersh Org Dev J	LEADERSHIP ORG DEV J	English	ENGLAND	2013
+Intestinal Research	Intest. Res.	Intest Res	INTEST RES	English	SOUTH KOREA	2020
+ENVIRONMENTAL MODELLING & SOFTWARE	Environ. Modell. Softw.	Environ Modell Softw	ENVIRON MODELL SOFTW	English	ENGLAND	1998
+GPS SOLUTIONS	GPS Solut.	GPS Solut	GPS SOLUT	English	USA	2006
+PLANT AND CELL PHYSIOLOGY	Plant Cell Physiol.	Plant Cell Physiol	PLANT CELL PHYSIOL	English	JAPAN	1997
+CHEMICAL COMMUNICATIONS	Chem. Commun.	Chem Commun	CHEM COMMUN	English	ENGLAND	1997
+ENDOCRINOLOGY	Endocrinology	Endocrinology	ENDOCRINOLOGY	English	USA	1997
+Therapeutic Advances in Medical Oncology	Ther. Adv. Med. Oncol.	Ther Adv Med Oncol	THER ADV MED ONCOL	English	ENGLAND	2014
+INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING	Int. J. Inf. Technol. Decis. Mak.	Int J Inf Technol Decis Mak	INT J INF TECH DECIS	English	SINGAPORE	2006
+Ecosystem Health and Sustainability	Ecosyst. Health Sustain.	Ecosyst Health Sustain	ECOSYST HEALTH SUST	English	CHINA MAINLAND	2019
+JOURNAL OF BIOMEDICAL MATERIALS RESEARCH PART A	J. Biomed. Mater. Res. Part A	J Biomed Mater Res Part A	J BIOMED MATER RES A	English	USA	2003
+JOURNAL OF RARE EARTHS	J. Rare Earths	J Rare Earths	J RARE EARTH	English	CHINA MAINLAND	1998
+GLOBAL CHALLENGES	Glob. Chall.	Glob Chall	GLOB CHALL	English	GERMANY (FED REP GER)	2019
+One Health Outlook	One Health Outlook	One Health Outlook	ONE HEALTH OUTLOOK	English	ENGLAND	2021
+Progress in Biomaterials	Prog. Biomater.	Prog Biomater	PROG BIOMATER	English	GERMANY (FED REP GER)	2020
+ENVIRONMENT DEVELOPMENT AND SUSTAINABILITY	Environ. Dev. Sustain.	Environ Dev Sustain	ENVIRON DEV SUSTAIN	English	NETHERLANDS	2017
+Heat Transfer-Asian Research	Heat Transf.-Asian Res.	Heat Transf-Asian Res	HEAT TRANSF-ASIAN RE	English	USA	2020
+International Journal of Artificial Intelligence in Education	Int. J. Artif. Intell. Educ.	Int J Artif Intell Educ	INT J ARTIF INTELL E	English	USA	2020
+NanoImpact	NanoImpact	NanoImpact	NANOIMPACT	English	NETHERLANDS	2019
+Skeletal Muscle	Skeletal Muscle	Skeletal Muscle	SKELET MUSCLE	English	ENGLAND	2015
+Journal of Translational Internal Medicine	J. TRANSL. INTERN. MED.	J TRANSL INTERN MED	J TRANSL INTERN MED	English	CHINA MAINLAND	2020
+Sustainable Environment Research	Sustain. Environ. Res.	Sustain Environ Res	SUSTAIN ENVIRON RES	English	ENGLAND	2020
+Energy Sustainability and Society	Energy Sustain. Soc.	Energy Sustain Soc	ENERGY SUSTAIN SOC	English	ENGLAND	2017
+Nanotechnology Science and Applications	Nanotechnol. Sci. Appl.	Nanotechnol Sci Appl	NANOTECHNOL SCI APPL	English	NEW ZEALAND	2020
+JOURNAL OF EDUCATIONAL COMPUTING RESEARCH	J. Educ. Comput. Res.	J Educ Comput Res	J EDUC COMPUT RES	English	USA	1997
+JOURNAL OF PEST SCIENCE	J. Pest Sci.	J Pest Sci	J PEST SCI	English	GERMANY (FED REP GER)	2004
+AMERICAN JOURNAL OF SPORTS MEDICINE	Am. J. Sports Med.	Am J Sports Med	AM J SPORT MED	English	USA	1997
+Smart Learning Environments	Smart Learn. Env.	Smart Learn Env	SMART LEARN ENVIRON	English	SINGAPORE	2021
+International Journal of Press-Politics	Int. J. Press-Polit.	Int J Press-Polit	INT J PRESS/POLIT	English	USA	2009
+JOURNAL OF ANIMAL ECOLOGY	J. Anim. Ecol.	J Anim Ecol	J ANIM ECOL	English	ENGLAND	1997
+Academy of Management Learning & Education	Acad. Manag. Learn. Educ.	Acad Manag Learn Educ	ACAD MANAG LEARN EDU	English	USA	2007
+Global Environmental Politics	Glob. Environ. Polit.	Glob Environ Polit	GLOBAL ENVIRON POLIT	English	USA	2008
+Survey Research Methods	Surv. Res. Methods	Surv Res Methods	SURV RES METHODS-GER	English	GERMANY (FED REP GER)	2013
+CHILD ABUSE & NEGLECT	Child Abuse Negl.	Child Abuse Negl	CHILD ABUSE NEGLECT	English	USA	1997
+World Journal of Mens Health	World J. Mens Health	World J Mens Health	WORLD J MENS HEALTH	English	SOUTH KOREA	2017
+SOCIAL FORCES	Soc. Forces	Soc Forces	SOC FORCES	English	USA	1997
+NEUROSURGERY	Neurosurgery	Neurosurgery	NEUROSURGERY	English	USA	1997
+SYSTEMATIC ENTOMOLOGY	Syst. Entomol.	Syst Entomol	SYST ENTOMOL	English	ENGLAND	1997
+Stata Journal	Stata J.	Stata J	STATA J	English	USA	2007
+JOURNAL OF URBAN TECHNOLOGY	J. Urban Technol.	J Urban Technol	J URBAN TECHNOL	English	ENGLAND	1997
+MINERALIUM DEPOSITA	Miner. Depos.	Miner Depos	MINER DEPOSITA	Multi-Language	GERMANY (FED REP GER)	1997
+Journal of Integrative Agriculture	J. Integr. Agric.	J Integr Agric	J INTEGR AGR	English	CHINA MAINLAND	2012
+Open Learning	Open Learn.	Open Learn	OPEN LEARN	English	ENGLAND	2020
+Clinical Psychological Science	Clin. Psychol. Sci.	Clin Psychol Sci	CLIN PSYCHOL SCI	English	USA	2019
+Best Practice & Research-Clinical Anaesthesiology	Best Pract. Res.-Clin. Anaesth.	Best Pract Res-Clin Anaesth	BEST PRAC RES-CL ANA	English	ENGLAND	2020
+Psychosocial Intervention	Psychosoc. Interv.	Psychosoc Interv	PSYCHOSOC INTERV	English	SPAIN	2017
+Emerging Markets Review	Emerg. Mark. Rev.	Emerg Mark Rev	EMERG MARK REV	English	NETHERLANDS	2011
+Progress in Orthodontics	Prog. Orthod.	Prog Orthod	PROG ORTHOD	English	GERMANY (FED REP GER)	2017
+JOURNAL OF BUSINESS AND PSYCHOLOGY	J. Bus. Psychol.	J Bus Psychol	J BUS PSYCHOL	English	USA	1997
+KOREAN JOURNAL OF RADIOLOGY	Korean J. Radiol.	Korean J Radiol	KOREAN J RADIOL	English	SOUTH KOREA	2003
+High Power Laser Science and Engineering	High Power Laser Sci. Eng.	High Power Laser Sci Eng	HIGH POWER LASER SCI	English	CHINA MAINLAND	2017
+Business Ethics-A European Review	Bus. Ethics	Bus Ethics	BUS ETHICS	English	ENGLAND	2010
+JOURNAL OF GEOPHYSICAL RESEARCH-PLANETS	J. Geophys. Res.-Planets	J Geophys Res-Planets	J GEOPHYS RES-PLANET	English	USA	2016
+MINERALS ENGINEERING	Miner. Eng.	Miner Eng	MINER ENG	English	ENGLAND	1997
+HEALTH & PLACE	Health Place	Health Place	HEALTH PLACE	English	USA	2001
+TIJDSCHRIFT VOOR ECONOMISCHE EN SOCIALE GEOGRAFIE	Tijdschr. Econ. Soc. Geogr.	Tijdschr Econ Soc Geogr	TIJDSCHR ECON SOC GE	Multi-Language	ENGLAND	1997
+ECOLOGY	Ecology	Ecology	ECOLOGY	English	USA	1997
+Alzheimers & Dementia-Translational Research & Clinical Interventions	Alzheimers Dement.-Transl. Res. Clin. Interv.	Alzheimers Dement-Transl Res Clin Interv	ALZH DEMENT-TRCI	English	USA	2021
+ACADEMIC RADIOLOGY	Acad. Radiol.	Acad Radiol	ACAD RADIOL	English	USA	1997
+LGBT Health	LGBT Health	LGBT Health	LGBT HEALTH	English	USA	2015
+SLEEP MEDICINE	Sleep Med.	Sleep Med	SLEEP MED	English	NETHERLANDS	2005
+ORAL ONCOLOGY	Oral Oncol.	Oral Oncol	ORAL ONCOL	English	ENGLAND	1997
+Information Technology for Development	Inform. Technol. Dev.	Inform Technol Dev	INFORM TECHNOL DEV	English	ENGLAND	2011
+IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY	IEEE Trans. Control Syst. Technol.	IEEE Trans Control Syst Technol	IEEE T CONTR SYST T	English	USA	1997
+Journal of Integrative Medicine-JIM	J. Integr. Med.-JIM	J Integr Med-JIM	J INTEGR MED-JIM	English	CHINA MAINLAND	2019
+GROUP & ORGANIZATION MANAGEMENT	Group Organ. Manage.	Group Organ Manage	GROUP ORGAN MANAGE	English	USA	1997
+INTERNATIONAL JOURNAL OF GYNECOLOGICAL CANCER	Int. J. Gynecol. Cancer	Int J Gynecol Cancer	INT J GYNECOL CANCER	English	USA	1997
+INTERNATIONAL JOURNAL OF NEUROPSYCHOPHARMACOLOGY	Int. J. Neuropsychopharmacol.	Int J Neuropsychopharmacol	INT J NEUROPSYCHOPH	English	ENGLAND	1999
+Ad Hoc Networks	Ad Hoc Netw.	Ad Hoc Netw	AD HOC NETW	English	NETHERLANDS	2009
+ADVANCES IN ENGINEERING SOFTWARE	Adv. Eng. Softw.	Adv Eng Softw	ADV ENG SOFTW	English	ENGLAND	1997
+AMERICAN JOURNAL OF PHYSIOLOGY-HEART AND CIRCULATORY PHYSIOLOGY	Am. J. Physiol.-Heart Circul. Physiol.	Am J Physiol-Heart Circul Physiol	AM J PHYSIOL-HEART C	English	USA	1999
+JOURNAL OF PSYCHIATRIC RESEARCH	J. Psychiatr. Res.	J Psychiatr Res	J PSYCHIATR RES	English	ENGLAND	2006
+AMERICAN HEART JOURNAL	Am. Heart J.	Am Heart J	AM HEART J	English	USA	1997
+APPLIED SOIL ECOLOGY	Appl. Soil Ecol.	Appl Soil Ecol	APPL SOIL ECOL	English	NETHERLANDS	1997
+JOURNAL OF PLANT GROWTH REGULATION	J. Plant Growth Regul.	J Plant Growth Regul	J PLANT GROWTH REGUL	English	USA	1997
+MICROCHEMICAL JOURNAL	Microchem J.	Microchem J	MICROCHEM J	English	NETHERLANDS	1997
+PROSTATE CANCER AND PROSTATIC DISEASES	Prostate Cancer Prostatic Dis.	Prostate Cancer Prostatic Dis	PROSTATE CANCER P D	English	ENGLAND	1998
+International Journal for Equity in Health	Int. J. Equity Health	Int J Equity Health	INT J EQUITY HEALTH	English	ENGLAND	2010
+Brain Communications	Brain Commun.	Brain Commun	BRAIN COMMUN	English	ENGLAND	2020
+HUMAN BRAIN MAPPING	Hum. Brain Mapp.	Hum Brain Mapp	HUM BRAIN MAPP	English	USA	1997
+IEEE Geoscience and Remote Sensing Letters	IEEE Geosci. Remote Sens. Lett.	IEEE Geosci Remote Sens Lett	IEEE GEOSCI REMOTE S	English	USA	2007
+Drug Design Development and Therapy	Drug Des. Dev. Ther.	Drug Des Dev Ther	DRUG DES DEV THER	English	ENGLAND	2011
+IEEE Transactions on Green Communications and Networking	IEEE Trans. Green Commun. Netw.	IEEE Trans Green Commun Netw	IEEE T GREEN COMMUN	English	USA	2021
+Plant Diversity	Plant Diversity	Plant Diversity	PLANT DIVERSITY	English	CHINA MAINLAND	2019
+Interdisciplinary Sciences-Computational Life Sciences	Interdiscip. Sci.	Interdiscip Sci	INTERDISCIP SCI	English	CHINA MAINLAND	2013
+JOURNAL OF WIND ENGINEERING AND INDUSTRIAL AERODYNAMICS	J. Wind Eng. Ind. Aerodyn.	J Wind Eng Ind Aerodyn	J WIND ENG IND AEROD	Multi-Language	NETHERLANDS	1997
+GeoHealth	GeoHealth	GeoHealth	GEOHEALTH	English	USA	2019
+MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY	Mon. Not. Roy. Astron. Soc.	Mon Not Roy Astron Soc	MON NOT R ASTRON SOC	English	ENGLAND	1997
+METHODS	Methods	Methods	METHODS	English	USA	1999
+NEOPLASIA	Neoplasia	Neoplasia	NEOPLASIA	English	USA	2002
+Rice Science	Rice Sci.	Rice Sci	RICE SCI	English	CHINA MAINLAND	2017
+JOURNAL OF CONSUMER PSYCHOLOGY	J. Consum. Psychol.	J Consum Psychol	J CONSUM PSYCHOL	English	ENGLAND	2002
+Quantum Machine Intelligence	Quant. Mach. Intell.	Quant Mach Intell	QUANT MACH INTELL	English	SWITZERLAND	2021
+ANNALS OF OPERATIONS RESEARCH	Ann. Oper. Res.	Ann Oper Res	ANN OPER RES	English	NETHERLANDS	1997
+JOURNAL OF TECHNOLOGY TRANSFER	J. Technol. Transf.	J Technol Transf	J TECHNOL TRANSFER	English	USA	2009
+Antibiotics-Basel	Antibiotics-Basel	Antibiotics-Basel	ANTIBIOTICS-BASEL	English	SWITZERLAND	2018
+mSphere	mSphere	mSphere	MSPHERE	English	USA	2016
+Frontiers in Aging Neuroscience	Front. Aging Neurosci.	Front Aging Neurosci	FRONT AGING NEUROSCI	English	SWITZERLAND	2012
+Stem Cell Reviews and Reports	Stem Cell Rev. Rep.	Stem Cell Rev Rep	STEM CELL REV REP	English	USA	2009
+Thermal Science and Engineering Progress	Therm. Sci. Eng. Prog.	Therm Sci Eng Prog	THERM SCI ENG PROG	English	ENGLAND	2021
+Georisk-Assessment and Management of Risk for Engineered Systems and Geohazards	Georisk	Georisk	GEORISK	English	ENGLAND	2020
+International Journal of Management Science and Engineering Management	Int. J. Manag. Sci. Eng. Manag.	Int J Manag Sci Eng Manag	INT J MANAG SCI ENG	English	ENGLAND	2020
+International Journal of Minerals Metallurgy and Materials	Int. J. Miner. Metall. Mater.	Int J Miner Metall Mater	INT J MIN MET MATER	English	CHINA MAINLAND	2009
+SYSTEM DYNAMICS REVIEW	Syst. Dyn. Rev.	Syst Dyn Rev	SYST DYNAM REV	English	ENGLAND	1997
+CLIMATIC CHANGE	Clim. Change	Clim Change	CLIMATIC CHANGE	English	NETHERLANDS	1997
+FASEB JOURNAL	Faseb J.	Faseb J	FASEB J	English	USA	1997
+INTERNATIONAL BIODETERIORATION & BIODEGRADATION	Int. Biodeterior. Biodegrad.	Int Biodeterior Biodegrad	INT BIODETER BIODEGR	English	ENGLAND	1997
+Journal of Leadership & Organizational Studies	J. Leadersh. Organ. Stud.	J Leadersh Organ Stud	J LEADERSH ORG STUD	English	USA	2014
+Diabetology & Metabolic Syndrome	Diabetol. Metab. Syndr.	Diabetol Metab Syndr	DIABETOL METAB SYNDR	English	BRAZIL	2011
+Drones	Drones-Basel	Drones-Basel	DRONES-BASEL	English	SWITZERLAND	2021
+Research in Transportation Business and Management	Res. Transp. Bus. Manag.	Res Transp Bus Manag	RES TRANSP BUS MANAG	English	NETHERLANDS	2018
+BONE MARROW TRANSPLANTATION	Bone Marrow Transplant.	Bone Marrow Transplant	BONE MARROW TRANSPL	English	ENGLAND	1997
+DATA MINING AND KNOWLEDGE DISCOVERY	Data Min. Knowl. Discov.	Data Min Knowl Discov	DATA MIN KNOWL DISC	English	NETHERLANDS	1998
+Frontiers in Molecular Neuroscience	Front. Molec. Neurosci.	Front Molec Neurosci	FRONT MOL NEUROSCI	English	SWITZERLAND	2014
+JOURNAL OF ENGINEERING AND TECHNOLOGY MANAGEMENT	J. Eng. Technol. Manage.	J Eng Technol Manage	J ENG TECHNOL MANAGE	English	NETHERLANDS	1998
+Synthetic and Systems Biotechnology	Synth. Syst. Biotechnol.	Synth Syst Biotechnol	SYN SYST BIOTECHNO	English	CHINA MAINLAND	2020
+JOURNAL OF BIOLOGICAL CHEMISTRY	J. Biol. Chem.	J Biol Chem	J BIOL CHEM	English	USA	1997
+Journal of the Academy of Nutrition and Dietetics	J. Acad. Nutr. Diet.	J Acad Nutr Diet	J ACAD NUTR DIET	English	USA	2012
+IRBM	IRBM	IRBM	IRBM	French	FRANCE	2010
+Ecological Processes	Ecol. Process.	Ecol Process	ECOL PROCESS	English	CHINA MAINLAND	2019
+Geoenvironmental Disasters	Geoenviron. Disasters	Geoenviron Disasters	GEOENVIRONMENTAL DIS	English	JAPAN	2021
+CURRENT OPINION IN NEUROLOGY	Curr. Opin. Neurol.	Curr Opin Neurol	CURR OPIN NEUROL	English	USA	1997
+MATERIALS AND MANUFACTURING PROCESSES	Mater. Manuf. Process.	Mater Manuf Process	MATER MANUF PROCESS	English	USA	1998
+BIOCHIMICA ET BIOPHYSICA ACTA-MOLECULAR AND CELL BIOLOGY OF LIPIDS	Biochim. Biophys. Acta Mol. Cell Biol. Lipids	Biochim Biophys Acta Mol Cell Biol Lipids	BBA-MOL CELL BIOL L	Dutch	NETHERLANDS	2000
+Journal of Central Nervous System Disease	J. Cent. Nerv. Syst. Dis.	J Cent Nerv Syst Dis	J CENT NERV SYST DIS	English	ENGLAND	2020
+MOTIVATION AND EMOTION	Motiv. Emot.	Motiv Emot	MOTIV EMOTION	English	USA	1997
+Pain Reports	Pain Rep.	Pain Rep	PAIN REP	English	USA	2021
+Human Vaccines & Immunotherapeutics	Human Vaccines Immunother.	Human Vaccines Immunother	HUM VACC IMMUNOTHER	English	USA	2012
+Journal of Functional Biomaterials	J. Func. Biomater.	J Func Biomater	J FUNCT BIOMATER	English	SWITZERLAND	2020
+CIRP Journal of Manufacturing Science and Technology	CIRP J. Manuf. Sci. Technol.	CIRP J Manuf Sci Technol	CIRP J MANUF SCI TEC	English	NETHERLANDS	2018
+Virology Journal	Virol. J.	Virol J	VIROL J	English	ENGLAND	2008
+Polish Archives of Internal Medicine-Polskie Archiwum Medycyny Wewnetrznej	Pol. Intern. Med.	Pol Intern Med	POL ARCH INTERN MED	English	POLAND	2017
+Journal of Physics-Materials	J. Phys-Mater.	J Phys-Mater	J PHYS-MATER	English	ENGLAND	2020
+AUSTRALIAN JOURNAL OF MANAGEMENT	Aust. J. Manag.	Aust J Manag	AUST J MANAGE	English	AUSTRALIA	2009
+CELLULAR SIGNALLING	Cell. Signal.	Cell Signal	CELL SIGNAL	English	USA	1997
+INTERNATIONAL JOURNAL OF LIFE CYCLE ASSESSMENT	Int. J. Life Cycle Assess.	Int J Life Cycle Assess	INT J LIFE CYCLE ASS	English	GERMANY (FED REP GER)	2003
+Renewable Energy Focus	Renew. Energ. Focus	Renew Energ Focus	RENEW ENERG FOCUS	English	ENGLAND	2022
+Current Developments in Nutrition	Curr. Dev. Nutr.	Curr Dev Nutr	CURR DEV NUTR	English	USA	2020
+ChemBioEng Reviews	ChemBioEng Rev.	ChemBioEng Rev	CHEMBIOENG REV	English	GERMANY (FED REP GER)	2019
+AIMS Microbiology	AIMS Microbiol.	AIMS Microbiol	AIMS MICROBIOL	English	USA	2020
+ARTHROSCOPY-THE JOURNAL OF ARTHROSCOPIC AND RELATED SURGERY	Arthroscopy	Arthroscopy	ARTHROSCOPY	English	USA	1997
+FRACTALS-COMPLEX GEOMETRY PATTERNS AND SCALING IN NATURE AND SOCIETY	Fractals-Complex Geom. Patterns Scaling Nat. Soc.	Fractals-Complex Geom Patterns Scaling Nat Soc	FRACTALS	English	SINGAPORE	1997
+POLICY AND POLITICS	Policy Polit.	Policy Polit	POLICY POLIT	English	ENGLAND	1997
+Animal Microbiome	Anim. Microbiome	Anim Microbiome	ANIM MICROBIOME	English	ENGLAND	2021
+FISH & SHELLFISH IMMUNOLOGY	Fish Shellfish Immunol.	Fish Shellfish Immunol	FISH SHELLFISH IMMUN	English	ENGLAND	1997
+China CDC Weekly	China CDC Weekly	China CDC Weekly	CHINA CDC WEEKLY	English	CHINA MAINLAND	2021
+Pesticide Biochemistry and Physiology	Pest. Biochem. Physiol.	Pest Biochem Physiol	PESTIC BIOCHEM PHYS	English	USA	1997
+ARTHRITIS CARE & RESEARCH	Arthritis Care Res.	Arthritis Care Res	ARTHRIT CARE RES	English	USA	1997
+JOURNAL OF TELEMEDICINE AND TELECARE	J. Telemed. Telecare	J Telemed Telecare	J TELEMED TELECARE	English	ENGLAND	2000
+ECONOMIC MODELLING	Econ. Model.	Econ Model	ECON MODEL	English	NETHERLANDS	1997
+International Journal of Pharmaceutics-X	Int. J. Pharm. X	Int J Pharm X	INT J PHARM-X	English	NETHERLANDS	2020
+MEDICAL TEACHER	Med. Teach.	Med Teach	MED TEACH	English	ENGLAND	1997
+COGNITIVE BEHAVIOUR THERAPY	Cogn. Behav. Ther.	Cogn Behav Ther	COGN BEHAV THERAPY	English	ENGLAND	2015
+Telemedicine and e-Health	Telemed. e-Health	Telemed e-Health	TELEMED E-HEALTH	English	USA	2011
+Developmental Cognitive Neuroscience	Dev. Cogn. Neurosci.	Dev Cogn Neurosci	DEV COGN NEUROS-NETH	English	ENGLAND	2012
+Gynecologic Oncology	Gynecol. Oncol.	Gynecol Oncol	GYNECOL ONCOL	English	USA	1997
+JOURNAL OF PAIN AND SYMPTOM MANAGEMENT	J. Pain Symptom Manage.	J Pain Symptom Manage	J PAIN SYMPTOM MANAG	English	USA	1997
+ACCOUNTING ORGANIZATIONS AND SOCIETY	Account. Organ. Soc.	Account Organ Soc	ACCOUNT ORG SOC	English	ENGLAND	1997
+Perspectives in Ecology and Conservation	Perspect. Ecol. Conserv.	Perspect Ecol Conserv	PERSPECT ECOL CONSER	English	BRAZIL	2017
+Autism Research	Autism Res.	Autism Res	AUTISM RES	English	USA	2009
+JOURNAL OF LIGHTWAVE TECHNOLOGY	J. Lightwave Technol.	J Lightwave Technol	J LIGHTWAVE TECHNOL	English	USA	1997
+JOURNAL OF SOUND AND VIBRATION	J. Sound Vibr.	J Sound Vibr	J SOUND VIB	English	USA	1997
+NICOTINE & TOBACCO RESEARCH	Nicotine Tob. Res.	Nicotine Tob Res	NICOTINE TOB RES	English	ENGLAND	2005
+JOURNAL OF EPIDEMIOLOGY	J. Epidemiol.	J Epidemiol	J EPIDEMIOL	English	JAPAN	2005
+PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES	Proc. R. Soc. B-Biol. Sci.	Proc R Soc B-Biol Sci	P ROY SOC B-BIOL SCI	English	ENGLAND	2004
+Journal of Hydrology-Regional Studies	J. Hydrol.-Reg. Stud.	J Hydrol-Reg Stud	J HYDROL-REG STUD	English	NETHERLANDS	2019
+URBAN STUDIES	Urban Stud.	Urban Stud	URBAN STUD	English	ENGLAND	1997
+Journal of Global Information Management	J. Glob. Inf. Manag.	J Glob Inf Manag	J GLOB INF MANAG	English	USA	2007
+SSM-Population Health	SSM-Popul. Health	SSM-Popul Health	SSM-POPUL HLTH	English	ENGLAND	2020

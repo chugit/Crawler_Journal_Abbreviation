@@ -1,0 +1,200 @@
+Australian Planner	Aust. Plan.	Aust Plan	AUST PLAN	English	AUSTRALIA	2020
+Bio-Algorithms and Med-Systems	Bio-Algorithms Med-Syst.	Bio-Algorithms Med-Syst	BIO-ALGORITHMS MED-S	English	POLAND	2020
+Internal Medicine	Intern. Med.	Intern Med	INTERNAL MED	English	JAPAN	1997
+Journal of Gemmology	J. Gemmol.	J Gemmol	J GEMMOL	English	ENGLAND	2019
+Jove-Journal of Visualized Experiments	J. Vis. Exp.	J Vis Exp	JOVE-J VIS EXP	English	USA	2014
+REVISTA DE NEUROLOGIA	Rev. Neurologia	Rev Neurologia	REV NEUROLOGIA	Spanish	SPAIN	1999
+Revista Espanola de Medicina Nuclear e Imagen Molecular	Rev. Esp. Med. Nucl. Imagen Mol.	Rev Esp Med Nucl Imagen Mol	REV ESP MED NUCL IMA	Multi-Language	SPAIN	2012
+All Life	All Life	All Life	ALL LIFE	English	ENGLAND	2020
+Astrophysical Bulletin	Astrophys. Bull.	Astrophys Bull	ASTROPHYS BULL	English	RUSSIA	2009
+Bollettino di Geofisica Teorica ed Applicata	Boll. Geofis. Teor. Appl.	Boll Geofis Teor Appl	B GEOFIS TEOR APPL	English	ITALY	2009
+Cureus Journal of Medical Science	Cureus J Med Sci	Cureus J Med Sci	CUREUS J MED SCIENCE	English	USA	2021
+Data in Brief	Data Brief	Data Brief	DATA BRIEF	English	NETHERLANDS	2020
+Israel Journal of Ecology & Evolution	Isr. J. Ecol. Evol.	Isr J Ecol Evol	ISR J ECOL EVOL	English	NETHERLANDS	2008
+Journal of Investigative Medicine High Impact Case Reports	J. Invest. Med. High Impact Case Rep.	J Invest Med High Impact Case Rep	J INVEST MED HIGH IM	English	USA	2020
+Journal of Mathematical Cryptology	J. Math. Cryptol.	J Math Cryptol	J MATH CRYPTOL	English	GERMANY (FED REP GER)	2020
+Journal of Water Management Modeling	J. Water Manag. Modelling	J Water Manag Modelling	J WATER MANAG MODELL	English	CANADA	2020
+Reports of Practical Oncology and Radiotherapy	Rep. Pract. Oncol. Radiother.	Rep Pract Oncol Radiother	REP PRACT ONCOL RADI	English	POLAND	2020
+Revista Espanola de Documentacion Cientifica	Rev. Esp. Doc. Cient.	Rev Esp Doc Cient	REV ESP DOC CIENT	Spanish	SPAIN	2010
+SAE International Journal of Engines	SAE Int. J. Engines	SAE Int J Engines	SAE INT J ENGINES	English	USA	2020
+SOFT MATERIALS	Soft Mater.	Soft Mater	SOFT MATER	English	USA	2004
+African Journal of Science Technology Innovation & Development	Afr. J. Sci. Technol. Innov. Dev.	Afr J Sci Technol Innov Dev	AFR J SCI TECHNOL IN	English	ENGLAND	2020
+American Journal of Case Reports	Am. J. Case Rep.	Am J Case Rep	AM J CASE REP	English	USA	2020
+BIOMEDICAL RESEARCH-TOKYO	Biomed. Res.	Biomed Res	BIOMED RES-TOKYO	English	JAPAN	1997
+Civil and Environmental Engineering	Civ. Environ. Eng.	Civ Environ Eng	CIV ENVIRON ENG	English	SLOVAKIA	2020
+Current Geriatrics Reports	Curr. Geriatr. Rep.	Curr Geriatr Rep	CURR GERIATR REP	English	USA	2020
+Jordanian Journal of Computers and Information Technology	Jordanian J. Comput. Info. Technol.	Jordanian J Comput Info Technol	JORDAN J COMPUT INFO	English	JORDAN	2022
+Journal of Computer Security	J. Comput. Secur.	J Comput Secur	J COMPUT SECUR	English	NETHERLANDS	2020
+Mires and Peat	Mires Peat	Mires Peat	MIRES PEAT	English	ENGLAND	2014
+Nutrition & Food Science	Nutr. Food Sci.	Nutr Food Sci	NUTR FOOD SCI	English	ENGLAND	2020
+QUEUEING SYSTEMS	Queueing Syst.	Queueing Syst	QUEUEING SYST	English	NETHERLANDS	1997
+Zbornik Radova Ekonomskog Fakulteta u Rijeci-Proceedings of Rijeka Faculty of Economics	Zb. Rad. Ekon. Fak. Rijeci	Zb Rad Ekon Fak Rijeci	ZB RAD EKON FAK RIJE	English	CROATIA	2009
+ACTA CHIMICA SLOVENICA	Acta Chim. Slov.	Acta Chim Slov	ACTA CHIM SLOV	Multi-Language	SLOVENIA	2000
+CHINESE JOURNAL OF ANALYTICAL CHEMISTRY	Chin. J. Anal. Chem.	Chin J Anal Chem	CHINESE J ANAL CHEM	Chinese	CHINA MAINLAND	2001
+Earthquake Science	Earthq. Sci.	Earthq Sci	EARTHQ SCI	English	CHINA MAINLAND	2020
+International Journal of Mycobacteriology	Int. J. Mycobact.	Int J Mycobact	INT J MYCOBACT	English	INDIA	2020
+Journal of Healthcare Quality Research	J. Healthc. Qual. Res.	J Healthc Qual Res	J HEALTHC QUAL RES	Multi-Language	SPAIN	2021
+Journal of Infection Prevention	J. Infect. Prevent.	J Infect Prevent	J INFECT PREVENT	English	ENGLAND	2022
+JOURNAL OF SOLUTION CHEMISTRY	J. Solut. Chem.	J Solut Chem	J SOLUTION CHEM	English	USA	1997
+ZEITSCHRIFT FUR KINDER-UND JUGENDPSYCHIATRIE UND PSYCHOTHERAPIE	Z. Kinder-und Jugendpsy. Psychother.	Z Kinder-und Jugendpsy Psychother	Z KINDER JUG-PSYCH	Multi-Language	SWITZERLAND	1997
+BOREAL ENVIRONMENT RESEARCH	Boreal Environ. Res.	Boreal Environ Res	BOREAL ENVIRON RES	English	FINLAND	2003
+Carpathian Journal of Earth and Environmental Sciences	Carpath. J. Earth Environ. Sci.	Carpath J Earth Environ Sci	CARPATH J EARTH ENV	English	ROMANIA	2008
+CHINESE JOURNAL OF ELECTRONICS	Chin. J. Electron.	Chin J Electron	CHINESE J ELECTRON	English	CHINA MAINLAND	2002
+Complex Systems	Complex Syst.	Complex Syst	COMPLEX SYST	English	USA	2020
+FLY	Fly	Fly	FLY	English	USA	2008
+Intangible Capital	Intang. Cap.	Intang Cap	INTANG CAP	Multi-Language	SPAIN	2020
+International Arab Journal of Information Technology	Int. Arab J. Inf. Technol.	Int Arab J Inf Technol	INT ARAB J INF TECHN	English	JORDAN	2010
+International Journal of Information System Modeling and Design	Int. J. Inf. Syst. Modeling Des.	Int J Inf Syst Modeling Des	INT J INF SYST MODEL	English	USA	2020
+Korean Journal of Metals and Materials	Korean J. Met. Mater.	Korean J Met Mater	KOREAN J MET MATER	Korean	SOUTH KOREA	2010
+Medical Bulletin of Sisli Etfal Hospital	Med. Bull. Sisli Etfal Hosp.	Med Bull Sisli Etfal Hosp	MED B SISLI ETFAL HO	English	TURKEY	2020
+Physical Chemistry Research	Phys. Chem. Res.	Phys Chem Res	PHYS CHEM RES	English	IRAN	2020
+Region	Region	Region	REGION	English	USA	2020
+BRAZILIAN JOURNAL OF CHEMICAL ENGINEERING	Braz. J. Chem. Eng.	Braz J Chem Eng	BRAZ J CHEM ENG	English	GERMANY (FED REP GER)	2001
+CHIMIA	Chimia	Chimia	CHIMIA	Multi-Language	SWITZERLAND	1997
+IET Computers and Digital Techniques	IET Comput. Digit. Tech.	IET Comput Digit Tech	IET COMPUT DIGIT TEC	English	USA	2007
+International Journal of Sustainable Agricultural Management and Informatics	Int. J. Sustain. Agric. Manage. Inform.	Int J Sustain Agric Manage Inform	INT J SUST AGR MANAG	English	ENGLAND	2022
+International Journal of the Economics of Business	nt. J. Econ. Bus.	nt J Econ Bus	INT J ECON BUS	English	ENGLAND	2020
+Jordan Journal of Mechanical and Industrial Engineering	Jordan J. Mech. Ind. Eng.	Jordan J Mech Ind Eng	JORDAN J MECH IND EN	English	JORDAN	2020
+Mental Health Review Journal	Ment. Health Rev. J.	Ment Health Rev J	MENT HEALTH REV J	English	ENGLAND	2020
+Nutricion Hospitalaria	Nutr. Hosp.	Nutr Hosp	NUTR HOSP	Spanish	SPAIN	2008
+Pan African Medical Journal	Pan Afr. Med. J.	Pan Afr Med J	PAN AFR MED J	Multi-Language	UGANDA	2020
+PHYSICS AND CHEMISTRY OF LIQUIDS	Phys. Chem. Liq.	Phys Chem Liq	PHYS CHEM LIQ	Multi-Language	ENGLAND	1997
+SCIENCEASIA	Scienceasia	Scienceasia	SCIENCEASIA	English	THAILAND	2010
+SENSORS AND MATERIALS	Sens. Mater.	Sens Mater	SENSOR MATER	English	JAPAN	1998
+Therapeutic Hypothermia and Temperature Management	Ther. Hypothermia Temp. Manag.	Ther Hypothermia Temp Manag	THER HYPOTHERMIA TEM	English	USA	2015
+European Journal of Computational Mechanics	Eur. J. Comput. Mech.	Eur J Comput Mech	EUR J COMPUT MECH	English	ENGLAND	2020
+International Journal for Quality Research	Int. J. Qual. Res.	Int J Qual Res	INT J QUAL RES	English	MONTENEGRO	2020
+International Journal of E-Business Research	Int. J. E-Bus. Res.	Int J E-Bus Res	INT J E-BUS RES	English	USA	2020
+JOURNAL OF MOLECULAR MICROBIOLOGY AND BIOTECHNOLOGY	J. Mol. Microbiol. Biotechnol.	J Mol Microbiol Biotechnol	J MOL MICROB BIOTECH	English	ENGLAND	2002
+Medwave	Medwave	Medwave	MEDWAVE	Multi-Language	CHILE	2020
+PHILOSOPHICAL MAGAZINE LETTERS	Philos. Mag. Lett.	Philos Mag Lett	PHIL MAG LETT	English	ENGLAND	1997
+POLYMER SCIENCE SERIES B	Polym. Sci. Ser. B	Polym Sci Ser B	POLYM SCI SER B+	English	RUSSIA	2002
+Portugaliae Electrochimica Acta	Port. Electrochim. Acta	Port Electrochim Acta	PORT ELECTROCHIM ACT	English	PORTUGAL	2020
+World Cancer Research Journal	World Cancer Res. J.	World Cancer Res J	WORLD CANCER RES J	English	USA	2020
+International Journal on Smart Sensing and Intelligent Systems	Int. J. Smart Sens. Intell. Syst.	Int J Smart Sens Intell Syst	INT J SMART SENS INT	English	NEW ZEALAND	2020
+Journal of Thermal Science and Technology	J Therm. Sci. Technol.	J Therm Sci Technol	J THERM SCI TECH-JPN	English	JAPAN	2009
+BULLETIN OF THE CHEMICAL SOCIETY OF ETHIOPIA	Bull. Chem. Soc. Ethiop.	Bull Chem Soc Ethiop	B CHEM SOC ETHIOPIA	English	ETHIOPIA	1998
+COMBUSTION EXPLOSION AND SHOCK WAVES	Combust. Explos.	Combust Explos	COMBUST EXPLO SHOCK+	English	RUSSIA	1997
+Expert Review of Precision Medicine and Drug Development	Expert Rev. Precis. Med. Drug Dev.	Expert Rev Precis Med Drug Dev	EXPERT REV PRECIS ME	English	ENGLAND	2020
+FRONTIERS-A JOURNAL OF WOMEN STUDIES	Frontiers-J. Women Stud.	Frontiers-J Women Stud	FRONTIERS	English	USA	1997
+International Journal of Embedded Systems	Int. J. Embed. Syst.	Int J Embed Syst	INT J EMBED SYST	English	SWITZERLAND	2020
+Kidney Cancer	Kidney Canc.	Kidney Canc	KIDNEY CANCER	English	USA	2021
+NANO	Nano	Nano	NANO	English	SINGAPORE	2008
+Revista Brasileira de Engenharia Agricola e Ambiental	Rev. Bras. Eng. Agric. Ambient.	Rev Bras Eng Agric Ambient	REV BRAS ENG AGR AMB	Multi-Language	BRAZIL	2012
+Advances in Operations Research	Adv. Oper. Res.	Adv Oper Res	ADV OPER RES	English	USA	2020
+BULLETIN DU CANCER	Bull. Cancer	Bull Cancer	B CANCER	French	FRANCE	1997
+DRUGS & THERAPY PERSPECTIVES	Drugs. Ther. Perspect.	Drugs Ther Perspect	DRUGS THER PERSPECT	English	NEW ZEALAND	2021
+Journal of Hematology	J. Hematol.	J Hematol	J HEMATOL	English	CANADA	2020
+Open Access Journal of Clinical Trials	Open Access J. Clin. Trials	Open Access J Clin Trials	OPEN ACCESS J CLIN T	English	NEW ZEALAND	2020
+RUSSIAN JOURNAL OF ELECTROCHEMISTRY	Russ. J. Electrochem.	Russ J Electrochem	RUSS J ELECTROCHEM+	English	RUSSIA	1997
+Analytical & Bioanalytical Electrochemistry	Anal. Bioanal. Electrochem.	Anal Bioanal Electrochem	ANAL BIOANAL ELECTRO	English	IRAN	2020
+Progress in Neurology and Psychiatry	Prog. Neurol. Psychiatry	Prog Neurol Psychiatry	PROG NEUROL PSYCHIAT	English	ENGLAND	2020
+Chemical Industry & Chemical Engineering Quarterly	Chem. Ind. Chem. Eng. Q.	Chem Ind Chem Eng Q	CHEM IND CHEM ENG Q	English	SERBIA	2010
+International Journal of Economics Management and Accounting	Int. J. Econ. Manag. Account.	Int J Econ Manag Account	INT J ECON MANAG ACC	English	MALAYSIA	2020
+Journal of Tropical Meteorology	J. Trop. Meteorol.	J Trop Meteorol	J TROP METEOROL	English	CHINA MAINLAND	2010
+Revista Espanola de Derecho Constitucional	Rev. Esp. Derecho Const.	Rev Esp Derecho Const	REV ESP DERECHO CONS	Spanish	SPAIN	2009
+ENGINEERING ECONOMIST	Eng. Econ.	Eng Econ	ENG ECON	English	USA	2011
+INFORMACIJE MIDEM-JOURNAL OF MICROELECTRONICS ELECTRONIC COMPONENTS AND MATERIALS	Inf. Midem-J. Microelectron. Electron. Compon. Mater.	Inf Midem-J Microelectron Electron Compon Mater	INFORM MIDEM	Multi-Language	SLOVENIA	1998
+MOLECULAR BIOLOGY	Mol. Biol.	Mol Biol	MOL BIOL+	English	RUSSIA	1997
+Nanotechnologies in Construction-A Scientific Internet-Journal	Nanotechnol. Constr.	Nanotechnol Constr	NANOTECHNOL CONSTR	Multi-Language	RUSSIA	2020
+Italian Journal of Engineering Geology and Environment	Ital. J. Eng. Geol. Env.	Ital J Eng Geol Env	ITAL J ENG GEOL ENV	Multi-Language	ITALY	2020
+Italian Journal of Vascular and Endovascular Surgery	Ital. J. Vasc. Endovasc. Surg.	Ital J Vasc Endovasc Surg	ITAL J VASC ENDOVASC	English	ITALY	2010
+International Journal of Endocrine Oncology	Int. J. Endocr. Oncol.	Int J Endocr Oncol	INT J ENDOCR ONCOL	English	ENGLAND	2020
+Turkish Journal of Physiotherapy Rehabilitation-Turk Fizyoterapi ve Rehabilitasyon Dergisi	Turk. J. Physiother. Rehab.	Turk J Physiother Rehab	TURK J PHYSIOTHER R	Multi-Language	TURKEY	2020
+Turkish Journal of Immunology	Turk. J. Immunol.	Turk J Immunol	TURK J IMMUNOL	English	TURKEY	2020
+Advances in Environmental Research-An International Journal	Ad. Environ. Res.	Ad Environ Res	AD ENVIRON RES	English	SOUTH KOREA	2020
+Drama Therapy Review	Drama Ther. Rev.	Drama Ther Rev	DRAMA THER REV	English	ENGLAND	2020
+HISTORY AND THEORY	Hist. Theory	Hist Theory	HIST THEORY	English	USA	2014
+NUMEN-INTERNATIONAL REVIEW FOR THE HISTORY OF RELIGIONS	Numen-Int. Rev. Hist. Relig.	Numen-Int Rev Hist Relig	NUMEN-INT REV HIST R	Multi-Language	NETHERLANDS	2020
+JOURNAL OF AFRICAN HISTORY	J. Afr. Hist.	J Afr Hist	J AFR HIST	Multi-Language	ENGLAND	1997
+Contemporary Islam-Dynamics of Muslim Life	Contemp. Islam	Contemp Islam	CONTEMP ISLAM	English	NETHERLANDS	2020
+Journal of Language Aggression and Conflict	J. Lang. Aggress. Confl.	J Lang Aggress Confl	J LANG AGGRESS CONFL	English	NETHERLANDS	2020
+JOURNAL OF LATIN AMERICAN STUDIES	J. Lat. Am. Stud.	J Lat Am Stud	J LAT AM STUD	English	ENGLAND	1997
+Rural Theology-International Ecumencial and Interdisciplinary Perspectives	Rural Theol.	Rural Theol	RURAL THEOL	English	WALES	2020
+Memory Studies	Mem. Stud.	Mem Stud	MEM STUD	English	USA	2011
+DIGITAL CREATIVITY	Digit. Creat.	Digit Creat	DIGIT CREAT	English	ENGLAND	2020
+Fashion Practice-The Journal of Design Creative Process & the Fashion Industry	Fash. Pract.	Fash Pract	FASHION PRACT	English	ENGLAND	2020
+Oral History Review	Oral Hist. Rev.	Oral Hist Rev	ORAL HIST REV	English	USA	2014
+URBAN MORPHOLOGY	Urb. Morphol.	Urb Morphol	URBAN MORPHOL	English	FRANCE	2020
+International Journal of Latin American Religions	Int. J. Lat. Am. Relig.	Int J Lat Am Relig	INT J LAT AM RELIG	English	BRAZIL	2021
+Creative Industries Journal	Creat. Ind. J.	Creat Ind J	CREATIVE IND J	English	ENGLAND	2021
+VICTORIAN STUDIES	Vic. Stud.	Vic Stud	VICTORIAN STUD	English	USA	2020
+Journal of Beliefs & Values-Studies in Religion & Education	J. Beliefs Values-Stud. Relig. Educ.	J Beliefs Values-Stud Relig Educ	J BELIEFS VALUES	English	ENGLAND	2010
+JOURNAL OF NEW MUSIC RESEARCH	J. New Music Res.	J New Music Res	J NEW MUSIC RES	English	ENGLAND	1998
+ENVIRONMENT AND HISTORY	Env. Hist.	Env Hist	ENVIRON HIST-UK	English	ENGLAND	2013
+JOURNAL OF LINGUISTICS	J. Linguist.	J Linguist	J LINGUIST	English	USA	1997
+PROCEEDINGS OF THE ROYAL IRISH ACADEMY SECTION C-ARCHAEOLOGY CELTIC STUDIES HISTORY LINGUISTICS LITERATURE	Proc. Roy. Irish Acad. Sect. C	Proc Roy Irish Acad Sect C	P ROY IRISH ACAD C	English	IRELAND	2020
+Journal of World Investment & Trade	J. World Invest. Trade	J World Invest Trade	J WORLD INVEST TRADE	English	NETHERLANDS	2020
+Journal of Corporate Law Studies	J. Corp. Law Stud.	J Corp Law Stud	J CORP LAW STUD	English	ENGLAND	2019
+INTERNATIONAL JOURNAL OF ART & DESIGN EDUCATION	Int. J. Art Des. Educ.	Int J Art Des Educ	INT J ART DES EDUC	English	ENGLAND	2003
+PSYCHOANALYTIC PSYCHOLOGY	Psychoanal. Psychol.	Psychoanal Psychol	PSYCHOANAL PSYCHOL	English	USA	1997
+Philosophia Mathematica	Philos. Math.	Philos Math	PHILOS MATH	English	ENGLAND	2012
+Intercultural Pragmatics	Intercult. Pragmat.	Intercult Pragmat	INTERCULT PRAGMAT	English	GERMANY (FED REP GER)	2010
+Internet Pragmatics	Internet Pragmat.	Internet Pragmat	INTERNET PRAGMAT	English	NETHERLANDS	2021
+International Sports Law Journal	Int. Sports Law J.	Int Sports Law J	INT SPORTS LAW J	English	GERMANY (FED REP GER)	2020
+Hypatia-A Journal of Feminist Philosophy	Hypatia	Hypatia	HYPATIA	English	USA	2011
+International Journal of Discrimination and the Law	Int. J. Discrim. Law	Int J Discrim Law	INT J DISCRIM LAW	English	USA	2020
+Journal de l Ecole Polytechnique-Mathematiques	J. Ecole Polytech.-Math.	J Ecole Polytech-Math	J ECOLE POLYTECH-MAT	Multi-Language	FRANCE	2020
+JOURNAL OF COMBINATORIAL THEORY SERIES A	J. Comb. Theory Ser. A	J Comb Theory Ser A	J COMB THEORY A	Multi-Language	USA	1997
+Natural Language Semantics	Nat. Lang. Semant.	Nat Lang Semant	NAT LANG SEMANT	English	NETHERLANDS	2010
+LANGUAGE SCIENCES	Lang. Sci.	Lang Sci	LANG SCI	English	ENGLAND	2006
+Trabajos de Prehistoria	Trabajos Prehist.	Trabajos Prehist	TRABAJOS PREHIST	Spanish	SPAIN	2009
+LINGUISTICS AND PHILOSOPHY	Linguist. Philos.	Linguist Philos	LINGUIST PHILOS	English	NETHERLANDS	2008
+Journal of Topology	J. Topol.	J Topol	J TOPOL	English	ENGLAND	2009
+Journal of Contemporary African Studies	J. Contemp. Afr. Stud.	J Contemp Afr Stud	J CONTEMP AFR STUD	English	SOUTH AFRICA	2020
+Journal of Applied Philosophy	J. Appl. Philos.	J Appl Philos	J APPL PHILOS	English	ENGLAND	2012
+LINEAR & MULTILINEAR ALGEBRA	Linear Multilinear Algebra	Linear Multilinear Algebra	LINEAR MULTILINEAR A	English	ENGLAND	2002
+COMBINATORICA	Combinatorica	Combinatorica	COMBINATORICA	English	GERMANY (FED REP GER)	1997
+LINGUISTICS	Linguistics	Linguistics	LINGUISTICS	Multi-Language	NETHERLANDS	1997
+METAPHOR AND SYMBOL	Metaphor Symb.	Metaphor Symb	METAPHOR SYMBOL	English	USA	2006
+Ornithology Research	Ornithol. Res.	Ornithol Res	ORNITHOL RES	English	BRAZIL	2020
+POTENTIAL ANALYSIS	Potential Anal.	Potential Anal	POTENTIAL ANAL	English	NETHERLANDS	1997
+UNIVERSITY OF ILLINOIS LAW REVIEW	Univ. Ill. Law Rev.	Univ Ill Law Rev	U ILLINOIS LAW REV	English	USA	1997
+Proceedings of the Institute of Mathematics and Mechanics	Proc. Inst. Math. Mech.	Proc Inst Math Mech	PROC INST MATH MECH	English	AZERBAIJAN	2020
+CANADIAN JOURNAL OF AFRICAN STUDIES	Can. J. Afr. Stud.	Can J Afr Stud	CAN J AFR STUDIES	Multi-Language	CANADA	2020
+INDIANA UNIVERSITY MATHEMATICS JOURNAL	Indiana Univ. Math. J.	Indiana Univ Math J	INDIANA U MATH J	English	USA	1997
+JOURNAL OF GEOMETRIC ANALYSIS	J. Geom. Anal.	J Geom Anal	J GEOM ANAL	English	USA	1997
+Journal of Mathematics and Music	J. Math. Music	J Math Music	J MATH MUSIC	English	ENGLAND	2009
+LINGUA	Lingua	Lingua	LINGUA	Multi-Language	NETHERLANDS	1997
+PUBLICACIONS MATEMATIQUES	Publ. Mat.	Publ Mat	PUBL MAT	Multi-Language	SPAIN	2002
+ICSID Review-Foreign Investment Law Journal	ICSID Rev.	ICSID Rev	ICSID REV	English	USA	2018
+Pragmatics	Pragmatics	Pragmatics	PRAGMATICS	English	NETHERLANDS	2010
+Social Science Japan Journal	Soc. Sci. Jpn. J.	Soc Sci Jpn J	SOC SCI JPN J	English	ENGLAND	2009
+DISCRETE AND CONTINUOUS DYNAMICAL SYSTEMS	Discret. Contin. Dyn. Syst.	Discret Contin Dyn Syst	DISCRETE CONT DYN-A	English	USA	2010
+Electronic Journal of Qualitative Theory of Differential Equations	Electron. J. Qual. Theory Differ.	Electron J Qual Theory Differ	ELECTRON J QUAL THEO	English	HUNGARY	2009
+WILDFOWL	WILDFOWL	WILDFOWL	WILDFOWL	English	ENGLAND	2018
+International Journal of Law Crime and Justice	Int. J. Law Crime Justice	Int J Law Crime Justice	INT J LAW CRIME JUST	English	ENGLAND	2009
+Fixed Point Theory	Fixed Point Theory	Fixed Point Theory	FIXED POINT THEOR-RO	English	ROMANIA	2009
+JOURNAL OF FUSION ENERGY	J. Fusion Energy	J Fusion Energy	J FUSION ENERG	English	USA	1997
+LINEAR ALGEBRA AND ITS APPLICATIONS	Linear Alg. Appl.	Linear Alg Appl	LINEAR ALGEBRA APPL	Multi-Language	USA	1997
+Afrika Matematika	Afr. Mat.	Afr Mat	AFR MAT	English	GERMANY (FED REP GER)	2020
+International Journal of Learner Corpus Research	Int. J. Learn. Corpus Res.	Int J Learn Corpus Res	INT J LEARN CORPUS R	English	NETHERLANDS	2022
+Journal of Inverse and Ill-Posed Problems	J. Inverse Ill-Posed Probl.	J Inverse Ill-Posed Probl	J INVERSE ILL-POSE P	English	GERMANY (FED REP GER)	2010
+Culture and Education	Cult. Educ.	Cult Educ	CULT EDUC-UK	English	ENGLAND	2020
+International Journal of Numerical Analysis and Modeling	Int. J. Numer. Anal. Model.	Int J Numer Anal Model	INT J NUMER ANAL MOD	English	CANADA	2007
+INTERNATIONAL REVIEW OF LAW AND ECONOMICS	Int. Rev. Law Econ.	Int Rev Law Econ	INT REV LAW ECON	English	USA	1997
+Linguistics Vanguard	Linguist. Vanguard	Linguist Vanguard	LINGUIST VANGUARD	English	GERMANY (FED REP GER)	2020
+Mediterranean Journal of Mathematics	Mediterr. J. Math.	Mediterr J Math	MEDITERR J MATH	English	SWITZERLAND	2007
+Semantics & Pragmatics	Semant. Pragmat.	Semant Pragmat	SEMANT PRAGMAT	English	USA	2020
+International Journal of Qualitative Studies in Education	Int. J. Qual. Stud. Educ.	Int J Qual Stud Educ	INT J QUAL STUD EDUC	English	ENGLAND	2020
+JOURNAL OF LAW ECONOMICS & ORGANIZATION	J. Law Econ. Organ.	J Law Econ Organ	J LAW ECON ORGAN	English	USA	1997
+Azania-Archaeological Research in Africa	Azania	Azania	AZANIA	Multi-Language	ENGLAND	2020
+BUSINESS HISTORY	Bus. Hist.	Bus Hist	BUS HIST	English	ENGLAND	1997
+Journal of Pseudo-Differential Operators and Applications	J. Pseudo-Differ. Oper. Appl.	J Pseudo-Differ Oper Appl	J PSEUDO-DIFFER OPER	English	SWITZERLAND	2014
+AUSTRALIAN ARCHAEOLOGY	Austral. Archaeol.	Austral Archaeol	AUST ARCHAEOL	English	AUSTRALIA	2013
+COMPTES RENDUS PALEVOL	C. R. Palevol	C R Palevol	CR PALEVOL	Multi-Language	FRANCE	2003
+Discrete Analysis	Discrete Anal.	Discrete Anal	DISCRETE ANAL	English	ENGLAND	2020
+Anaesthesiologie	Anaesthesiologie	Anaesthesiologie	ANAESTHESIOLOGIE	German	GERMANY (FED REP GER)	2022
+Early Years	Early Years	Early Years	EARLY YEARS-ABINGDON	English	ENGLAND	2019
+European Journal of Political Theory	Eur. J. Polit. Theory	Eur J Polit Theory	EUR J POLIT THEORY	English	ENGLAND	2020
+Collectanea Mathematica	Collect. Math.	Collect Math	COLLECT MATH	English	SPAIN	2007
+Journal of Nonlinear and Convex Analysis	J. Nonlinear Convex Anal.	J Nonlinear Convex Anal	J NONLINEAR CONVEX A	English	JAPAN	2009
+Focaal-Journal of Global and Historical Anthropology	Focaal	Focaal	FOCAAL	English	USA	2020
+Studies in Graduate and Postdoctoral Education	Stud. Grad. Postdr. Educ.	Stud Grad Postdr Educ	STUD GRAD POSTDR EDU	English	ENGLAND	2020
+Leadership and Policy in Schools	Leadersh. Policy Sch.	Leadersh Policy Sch	LEADERSH POLICY SCH	English	USA	2020
+APPLICABLE ANALYSIS	Appl. Anal.	Appl Anal	APPL ANAL	English	ENGLAND	2009
+BOLLETTINO DELLA SOCIETA PALEONTOLOGICA ITALIANA	Boll. Soc. Paleontol. Ital.	Boll Soc Paleontol Ital	B SOC PALEONTOL ITAL	Multi-Language	ITALY	2010
+Journal of Applied Analysis and Computation	J. Appl. Anal. Comput.	J Appl Anal Comput	J APPL ANAL COMPUT	English	USA	2014
+Quantum Topology	Quantum Topol.	Quantum Topol	QUANTUM TOPOL	English	SWITZERLAND	2019
+VETERINARY CLINICS OF NORTH AMERICA-EQUINE PRACTICE	Vet. Clin. N. Am.-Equine Pract.	Vet Clin N Am-Equine Pract	VET CLIN N AM-EQUINE	English	USA	1997
+ACAROLOGIA	Acarologia	Acarologia	ACAROLOGIA	Multi-Language	FRANCE	1997
