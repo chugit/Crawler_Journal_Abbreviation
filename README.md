@@ -76,7 +76,7 @@ WebDriver以本地化方式驱动浏览器，是语言绑定和各个浏览器�
 
 -   测试是否安装成功。在Python中运行下列代码：
 
-```python {.line-numbers}
+```python
 from selenium import webdriver
 browser = webdriver.Chrome() # 打开浏览器WebDriver并定义为browser
 browser.get('https://baidu.com') # 访问百度
