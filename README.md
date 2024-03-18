@@ -76,7 +76,7 @@ WebDriver以本地化方式驱动浏览器，是语言绑定和各个浏览器�
 
 -   测试是否安装成功。在Python中运行下列代码：
 
-```{python}
+```python
 from selenium import webdriver
 browser = webdriver.Chrome() # 打开浏览器WebDriver并定义为browser
 browser.get('https://baidu.com') # 访问百度
@@ -91,7 +91,7 @@ browser.quit() # 关闭WebDriver
 
 ## 打开网页
 
-```{python}
+```python
 from selenium import webdriver, common
 from selenium.webdriver.common.by import By
 import os
@@ -105,14 +105,14 @@ driver.maximize_window() # 窗口最大化
 driver.implicitly_wait(30) # 设置隐性等待时间
 ```
 
-```{python}
+```python
 url = 'https://jcr.clarivate.com/jcr/browse-journals' # 设置网页地址
 driver.get(url) # 打开上述网页
 time.sleep(2) # 强制等候2秒以等待网页加载
 driver.find_element(By.CSS_SELECTOR, 'body').find_element(By.CSS_SELECTOR, '#onetrust-consent-sdk').find_element(By.CSS_SELECTOR, '#onetrust-banner-sdk > div > div.ot-sdk-container > div').find_element(By.CSS_SELECTOR, '#onetrust-button-group-parent').find_element(By.CSS_SELECTOR, '#onetrust-button-group').find_element(By.CSS_SELECTOR, '#onetrust-accept-btn-handler').click() # 点击接受所有Cookies
 ```
 
-```{python}
+```python
 # 关闭WebDriver对象
 driver.quit()
 ```
@@ -145,7 +145,7 @@ driver.quit()
 
 最终期刊筛选器*Filter*元素的Python定位代码如下：
 
-```{python}
+```python
 # 定位目标元素的父元素
 icon_filter_up = driver.find_element(By.CSS_SELECTOR, 'body > div.incites-jcr3-fe-root > div.incites-jcr3-fe-browse-journals.ng-star-inserted > div > div.row.mr-0.ml-0.bottom-space > div.col-sm-1.col-md-1.col-lg-1.filter-col-pad > div > section')
 # 进而定位目标元素
@@ -154,7 +154,7 @@ icon_filter = icon_filter_up.find_element(By.CSS_SELECTOR, '#initial > mat-siden
 
 利用 `.click()` 代码单击目标元素以打开期刊筛选器*Filter*。
 
-```{python}
+```python
 icon_filter.click()
 ```
 
@@ -162,14 +162,14 @@ icon_filter.click()
 
 以按类别*Categories*筛选期刊为例。
 
-```{python}
+```python
 # 定位并打开期刊类别Categories菜单
 icon_category_up = icon_filter_up.find_element(By.CSS_SELECTOR, '#collapsed > div > div > section.accordion-section')
 icon_category = icon_category_up.find_element(By.ID, 'panel-2')
 icon_category.click()
 ```
 
-```{python}
+```python
 # 利用循环语句勾选特定类别
 search_area = icon_filter_up.find_element(By.CSS_SELECTOR, '#expandedCategories > div > div > section.accordion-section').find_element(By.ID, 'panel-2').find_element(By.CSS_SELECTOR, '#cdk-accordion-child-28 > div > section > div')
 
@@ -196,7 +196,7 @@ with open(output_file, 'w', encoding = 'utf-8') as file:
 
 ```
 
-```{python}
+```python
 # 点击apply按钮进行筛选
 icon_apply = icon_filter_up.find_element(By.CSS_SELECTOR, '#expandedCategories > div > div > section.btn-section > button.mat-focus-indicator.cdx-but-md.apply-btn-style.pull-right.mat-flat-button.mat-button-base')
 icon_apply.click()
@@ -206,7 +206,7 @@ icon_apply.click()
 
 设置每页显示的期刊数目为200个。
 
-```{python}
+```python
 Itemspp = driver.find_element(By.CSS_SELECTOR, 'body > div.incites-jcr3-fe-root > div.incites-jcr3-fe-browse-journals.ng-star-inserted > div > div.row.mr-0.ml-0.bottom-space > div.col-sm-11.col-md-11.col-lg-11.pr-36.ng-star-inserted > div > section.paginate-section > div > div.col-sm-6.col-md-6.col-lg-6.p-0.ng-star-inserted > mat-paginator > div > div > div.mat-paginator-page-size.ng-star-inserted > mat-form-field > div > div:nth-child(1) > div > mat-select')
 driver.execute_script('arguments[0].click();', Itemspp) # 该代码使用JavaScript在浏览器中执行点击操作，可以无视浏览器滑动滚动条位置。
 
@@ -226,7 +226,7 @@ driver.execute_script('arguments[0].click();', Itemspp200)
 
 ### 设置列表页的期刊爬取数目与起始页码
 
-```{python}
+```python
 # 生成期刊选择器数组
 element_selectors = [
   f'body > div.incites-jcr3-fe-root > div.incites-jcr3-fe-browse-journals.ng-star-inserted > div > div.row.mr-0.ml-0.bottom-space > div.col-sm-11.col-md-11.col-lg-11.pr-36.ng-star-inserted > div > section.table-section > mat-table > mat-row:nth-child({i}) > mat-cell.mat-cell.cdk-cell.cdk-column-journalName.mat-column-journalName.ng-star-inserted.mat-table-sticky > span'
@@ -249,7 +249,7 @@ total_journals = (page - 1) * len(element_selectors)
 
 ### 期刊信息爬取
 
-```{python}
+```python
 # 设定导出文件夹
 output_path = 'JCRoutput'
 
@@ -302,7 +302,7 @@ while True:
 
 ## 期刊信息合并与提取
 
-```{python}
+```python
 file_list = sorted([file for file in os.listdir(output_path) if file.endswith('.txt')]) # 建立output_path中的所有txt文件的列表，并按文件名进行排序
 
 merged_text = '' # 创建一个空字符串用于存储合并后的文本
