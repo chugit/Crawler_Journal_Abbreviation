@@ -1,4 +1,4 @@
-R Markdown文档及配套图片（Rmd文件及JCRPicture文件夹，可在Rstudio中查看与编辑）、Python脚本（纯代码）、期刊信息txt文件（利用本方法于2024/3/9~3/12从JCR网站爬取，包含21762个期刊的名称、ISO缩写和JCR缩写，可直接导入Endnote等期刊管理软件使用）已上传仓库，可按需下载。
+R Markdown文档及配套图片（Rmd文件及JCRPicture文件夹，可在Rstudio中查看与编辑）、[Python脚本](Crawler_JCR.py/ "Crawler_JCR.py")（纯代码）、[期刊信息txt文件](Abbreviation_JCR.txt/ "Abbreviation_JCR.txt")（利用本方法于2024/3/9~3/12从JCR网站爬取，包含21762个期刊的名称、ISO缩写和JCR缩写，可直接导入Endnote等期刊管理软件使用）已上传仓库，可按需下载。
 
 本文将介绍利用Python库*Selenium*实现从[Journal Citation Reports](https://jcr.clarivate.com "Journal Citation Reports")网站爬取期刊JCR缩写和ISO缩写的操作步骤，包括网页知识背景、爬虫环境搭建（Python、Selenium、WebDriver的安装与配置）、期刊信息爬取（模拟浏览器操作、元素的定位与抓取、信息的导出与处理）等。
 
