@@ -1,4 +1,4 @@
-R Markdown文档及配套图片（Rmd文件及JCRPicture文件夹，可在Rstudio中查看与编辑）、[Python脚本](Crawler_JCR.py/ "Crawler_JCR.py")（纯代码）、[期刊信息txt文件](Abbreviation_JCR.txt/ "Abbreviation_JCR.txt")（利用本方法于2024/3/9~3/12从JCR网站爬取，包含21762个期刊的名称、ISO缩写和JCR缩写，可直接导入Endnote等期刊管理软件使用）已上传仓库，可按需下载。
+R Markdown文档及配套图片（Rmd文件及JCRPicture文件夹，可在Rstudio中查看与编辑）、[Python脚本](Crawler_JCR20260207.py/ "Crawler_JCR20260207.py")（纯代码）、[期刊信息txt文件](Abbreviation_JCR20260207.txt/ "Abbreviation_JCR20260207.txt")（利用本方法于2026/2/5~2/7从JCR网站爬取，包含22400个期刊的名称、ISO缩写和JCR缩写，可直接导入Endnote等期刊管理软件使用）已上传仓库，可按需下载。
 
 本文将介绍利用Python库*Selenium*实现从[Journal Citation Reports](https://jcr.clarivate.com "Journal Citation Reports")网站爬取期刊JCR缩写和ISO缩写的操作步骤，包括网页知识背景、爬虫环境搭建（Python、Selenium、WebDriver的安装与配置）、期刊信息爬取（模拟浏览器操作、元素的定位与抓取、信息的导出与处理）等。
 
@@ -301,10 +301,17 @@ while True:
             pass
             # 恢复默认超时
             driver.set_page_load_timeout(30)
-            
+
             # 提取期刊信息
+            try:
+                journal_information = driver.find_element(By.CSS_SELECTOR, 'body > div.incites-jcr3-fe-journal-profile-page-root > div.incites-jcr3-fe-journal-profile.ng-star-inserted').find_element(By.CSS_SELECTOR, 'div:nth-child(4) > div > div:nth-child(2) > div:nth-child(6)')
+            except:
+                driver.refresh()
+                time.sleep(2)
+                journal_information = driver.find_element(By.CSS_SELECTOR, 'body > div.incites-jcr3-fe-journal-profile-page-root > div.incites-jcr3-fe-journal-profile.ng-star-inserted').find_element(By.CSS_SELECTOR, 'div:nth-child(4) > div > div:nth-child(2) > div:nth-child(6)')
+            pass
             summary_tile = driver.find_element(By.CSS_SELECTOR, 'body > div.incites-jcr3-fe-journal-profile-page-root > div.incites-jcr3-fe-journal-profile.ng-star-inserted').find_element(By.CSS_SELECTOR, '#main-content > div.col-sm-6.col-md-6.col-lg-6.summary-tile')
-            journal_information = driver.find_element(By.CSS_SELECTOR, 'body > div.incites-jcr3-fe-journal-profile-page-root > div.incites-jcr3-fe-journal-profile.ng-star-inserted').find_element(By.CSS_SELECTOR, 'div:nth-child(4) > div > div:nth-child(2) > div:nth-child(6)')
+
             # 获取期刊名
             journal_title = summary_tile.find_element(By.CSS_SELECTOR, 'p.title').text
             # 获取期刊JCR缩写
@@ -375,7 +382,7 @@ sorted_lines = sorted(valid_lines, key=lambda line: line.split('\t')[0].lower())
 sorted_text = '\n'.join(sorted_lines)
 
 # 将合并后的文本写入新文件中
-output_file1 = 'output_merged.txt' # 所有提取信息的储存文件名
+output_file1 = 'output_merged20260207.txt' # 所有提取信息的储存文件名
 with open(output_file1, 'w') as file:
     file.write(sorted_text)
 pass
@@ -391,7 +398,7 @@ pass
 extracted_text = '\n'.join(['\t'.join(line) for line in extracted_lines])
 
 # 将提取的文本写入新文件中
-output_file2 = 'output_merged_extracted.txt' # 进一步精简的储存文件名
+output_file2 = 'output_merged_extracted20260207.txt' # 进一步精简的储存文件名
 with open(output_file2, 'w') as file:
     file.write(extracted_text)
 pass
