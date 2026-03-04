@@ -1,6 +1,5 @@
 ---
 title: "Crawler_JCR"
-author: "CHU Juncong"
 date: "2026-2-7"
 output:
   html_document:
@@ -439,3 +438,4 @@ with open(output_file2, 'w') as file:
     file.write(extracted_text)
 pass
 ```
+
